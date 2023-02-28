@@ -15,11 +15,11 @@ virtualenv --version
 python -m virtualenv venv
 ```
 #### 4) Ativar o ambiente virtual
-no ####Linux, use o comando:
+no "Linux", use o comando:
 ```bash
 source venv/bin/activate
 ```
-no ####Windows, use o comando:
+no "Windows", use o comando:
 ```bash
 source venv/Scripts/activate
 ```
